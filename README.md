@@ -23,6 +23,7 @@ Dataset is available present in Kaggle at the location : https://www.kaggle.com/
 
 8.Evaluate the model's performance using appropriate metrics.
 ![image](https://github.com/pushkar243/BreastCancer-EDA/assets/8349513/80fa560f-32dd-45e8-9aab-19f3ec59dcf5)
+
 9.Performance Evaluation
 ![image](https://github.com/pushkar243/BreastCancer-EDA/assets/8349513/f340f7bb-5421-4de9-90a1-3aaef344be6f)
-
+![image](https://github.com/pushkar243/BreastCancer-EDA/assets/8349513/9bb36598-7f6b-488e-8c90-0c414ad962ab)
