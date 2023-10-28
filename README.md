@@ -1,5 +1,5 @@
 # BreastCancer-EDA
-Dataset is available present in Kaggle at the location : https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+Dataset is present in Kaggle at the location : https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset .
 **Objective** : Breast cancer is one of the most prevalent forms of cancer among women globally. Early and accurate diagnosis is crucial for effective treatment. Machine learning algorithms can play a significant role in assisting medical professionals in this regard. In this project, we aim to build and compare the performance of Random Forest and K-Nearest Neighbors (KNN) algorithms for predict the presence or absence of breast cancer malignancy using the Breast Cancer Wisconsin (Diagnostic) dataset.
 
 **Approach** :
