@@ -28,3 +28,8 @@ Dataset is present in Kaggle at the location : https://www.kaggle.com/datasets/y
 9.Performance Evaluation
 ![image](https://github.com/pushkar243/BreastCancer-EDA/assets/8349513/f340f7bb-5421-4de9-90a1-3aaef344be6f)
 ![image](https://github.com/pushkar243/BreastCancer-EDA/assets/8349513/9bb36598-7f6b-488e-8c90-0c414ad962ab)
+
+10. Using Artifical Neural Network (ANN) with Keras(Tensorflow)
+11. Draw heatmap and look at the performance.
+
+![image](https://github.com/pushkar243/BreastCancer-EDAandModel/assets/8349513/1ce30bfb-3f63-4aa7-9755-77a0504324fb)
